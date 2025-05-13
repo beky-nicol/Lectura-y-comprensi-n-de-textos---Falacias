@@ -1,5 +1,3 @@
-**Proyecto de Análisis y Diseño de Recursos Educativos**
-
 **LECTURA Y COMPRENSIÓN DE TEXTOS - FALACIAS**
 
 El siguiente proyecto busca reforzar el aprendizaje de la lectura y comprensión de textos, mediante actividades didácticas e interactivas que evalúan los cocnocimeintos de los estudiantes sobre Las Falacias, describiendo el concepto de una Falacia e identificar los tipos de falacias y un cuento que refuerza asi la comprensión lectora de los estudiantes.
